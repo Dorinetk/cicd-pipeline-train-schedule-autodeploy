@@ -21,4 +21,4 @@ You have been asked to remove the manual approval step and implement a basic smo
 
 ## Notes
 Deploy to production first. Then update your Jenkinsfile with version in example solution branch.
-Then select new code branch and create a pull request to merge into master and activate a new build with the smoke test. 
+Then select new code branch and create a pull request to merge into master.  
