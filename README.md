@@ -21,4 +21,4 @@ You have been asked to remove the manual approval step and implement a basic smo
 
 ## Notes
 Deploy to production first. Then update your Jenkinsfile with version in example solution branch.
-
+Then merge new code branch into master to test the smoke test. 
